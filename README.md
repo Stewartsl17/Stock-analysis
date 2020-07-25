@@ -41,4 +41,8 @@ Based on the stock performances in 2017 and 2018, which can be seen in the image
 #### Image 4: Exection time for refactored script for 2018 stock data
 ![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
+As seen in the images for 2017 above, the intial script for the stock data ran in .66 seconds. Comparatively, the refactored script ran in about .11 seconds. Looking at the 2018 execution times, the intial script ran in .68 seconds. However, the refactored script ran in .10 seconds. 
+
+## Summary 
+
 
