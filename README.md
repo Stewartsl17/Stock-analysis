@@ -19,6 +19,4 @@ Two main analyses were conducted during our exercise:
 
 ### 2017 vs. 2018 Stock Performance
 
-![Image 1](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/Stock_Performance_2017.png)
-
-![Image 2](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/Stock_Performance_2018.png)
+![Image 1](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/Stock_Performance_2017.png)![Image 2](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/Stock_Performance_2018.png)
