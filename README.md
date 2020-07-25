@@ -25,4 +25,20 @@ Two main analyses were conducted during our exercise:
 #### Image 2: 2018 Stocks
 ![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/Stock_Performance_2018.png)
 
-In the first image, which represents 
+Based on the stock performances in 2017 and 2018, which can be seen in the images above, Steve should first let his parents know that the stock that they were intially interested in, "DQ", should be traded as it's trending downwards after 2017. They were seeing a huge positive return (+199.4%), but that became a fairly negagtive (-62.6%) return. IF he is looking to help them replace their investment with other stocks, the data suggests that "ENPH" and "RUN" are stocks that are either holding steady or positively trending over these two years. From a general perspective, by 2018, most of the stocks that he was looking into were trending negatively.
+
+### Execution times between inital VBA script and refactored script
+
+#### Image 1: Exection time for inital script for 2017 stock data
+![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/VBA_Analysis_2017.png)
+
+#### Image 2: Exection time for refactored script for 2017 stock data
+![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
+
+#### Image 3: Exection time for inital script for 2018 stock data
+![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/VBA_Analysis_2018.png)
+
+#### Image 4: Exection time for refactored script for 2018 stock data
+![](https://github.com/Stewartsl17/Stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
+
+
